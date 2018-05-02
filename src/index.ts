@@ -8,8 +8,6 @@ import {ICheck} from "./checker/ICheck";
 import {BitcoinChecker} from "./checker/BitcoinChecker";
 
 
-var CronJob = require('cron').CronJob
-
 const player:IPlayer = new MP3Player()
 const checker:ICheck = new BitcoinChecker()
 
