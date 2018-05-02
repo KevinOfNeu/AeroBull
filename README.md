@@ -1,5 +1,8 @@
 AeroBull
 =================
-Inspired By SV.S05E03, Bitcon alarm created by Gilfoyle.
+Inspired by _Silicon Valley_ S05E03, bitcoin alarm created by Gilfoyle.
 
-[Detail](http://www.ifanr.com/1011696)
+
+[More Detail?](http://www.ifanr.com/1011696)
+
+
