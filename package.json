@@ -1,0 +1,22 @@
+{
+  "name": "aerobull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "supervisor -w build build/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cron": "^1.3.0",
+    "koa": "^2.5.1",
+    "play-sound": "^1.1.2",
+    "say": "^0.14.0"
+  }
+}
